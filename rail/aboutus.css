@@ -1,0 +1,28 @@
+body{
+	background: #5fb0fc;
+	background: -webkit-linear-gradient(#5fb0fc, #002447);
+	background: -o-linear-gradient(#5fb0fc, #002447);
+	background: -moz-linear-gradient(#5fb0fc, #002447);
+	background: linear-gradient(#5fb0fc, #002447);
+	
+	height:100%;
+}
+
+.header h1{
+	font-family:Comic sans ms;
+	font-size:70px;
+}
+
+
+.container{
+
+	margin-left:200px;
+	width:960px;
+
+}
+
+.container p{
+	text-align: center;
+	font-size:40px;
+
+}

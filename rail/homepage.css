@@ -1,0 +1,66 @@
+.mn{
+background-color:#FAEBD7;
+width:100%;
+}
+.tp{
+	background-color:#FAEBD7;
+	color:maroon;
+}
+
+.container{
+	width:100% ;
+}
+
+
+	.c1{
+		text-align:center;
+		color: #003366;
+		}
+	.b{
+		margin-left:100px;
+		color:#003366;
+		font-family: Bookman Old Style;
+		font-size: 28;
+	 }
+	.c{
+		font-family:Cosmic Sans MS;
+		color:#003366;
+		margin-left:50px;
+	}
+	input[type=text],[type=password],[type=textarea],[type=date],[type=option],[type=number],[type=email]   
+   { 
+    width: 80%;
+    padding: 10px 20px;
+    margin: 8px 0;
+	color:#003366;
+    box-sizing: border-box;
+    border-radius: 4px;
+    }
+	
+	input[type=submit],[type=reset]
+	{
+	background-color:#003366;
+	color: white;
+	border-radius:10px;
+	border: 2px solid #003366;
+	padding: 10px 25px;}
+	
+	select{
+	width: 80%;
+    padding: 10px 20px;
+    margin: 8px 0;
+	color:#003366;
+    box-sizing: border-box;
+    border-radius: 4px;
+	}
+	select > option {
+   background: black;
+	}
+    textarea#styled{
+	width: 80%;
+    padding: 10px 20px;
+    margin: 8px 0;
+	color:#003366;
+    box-sizing: border-box;
+    border-radius: 4px;
+	}

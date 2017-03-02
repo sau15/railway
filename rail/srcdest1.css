@@ -1,0 +1,47 @@
+
+select{
+	width: 50%;
+    padding: 10px 20px;
+    margin: 8px 0;
+	color:#003366;
+    box-sizing: border-box;
+	background-color:#A0CFEC;
+    border-radius: 4px;
+	}
+input[type=date],[type=text],[type=number]  
+   { 
+    width: 50%;
+    padding: 10px 20px;
+    margin: 8px 0;
+	color:#003366;
+    box-sizing: border-box;
+	background-color:#A0CFEC;
+    border-radius: 4px;
+    }
+	
+div {background-color:transparent;
+margin-left:350px;}
+
+h1{font-size:100px;color:#954535;
+text-align:center;
+margin-top:200px}
+h5{display:inline;
+color:black;
+font-weight:bold;}
+pre{font-size:30}
+.sub{
+	padding:10px 20px;
+	border-radius:5px;
+	background-color:teal;
+	border:0;
+	color:black;
+	
+}
+
+.res{
+	padding:10px 20px;
+	border-radius:5px;
+	background-color:teal;
+	border:0;
+	color:black;
+}
